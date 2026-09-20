@@ -1,0 +1,7 @@
+{
+  "name": "Hedef Takip",
+  "description": "Günlük hedefler, alarmlı hatırlatıcı, grafik istatistikleri, uçtan uca şifreli bulut senkronizasyonu ve özelleştirilebilir widget'lar sunan verimlilik uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
